@@ -1,4 +1,4 @@
-#Hello this is my cv.md
+Hello this is my cv.md
 [GitHub](http://github.com)
 1) Gribkov Dmitry
 2) 8902782390  gribkovdima88@mail.ru
@@ -11,4 +11,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-
+6) OOO "Tensor" 2019 junior programmer Python
+7)Higher education RGATU, Rubinsk, Russia
+English middle (3 years)
